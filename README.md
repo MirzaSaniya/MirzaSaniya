@@ -70,14 +70,6 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 
-- 📫 How to reach me **mirzasaniya305@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-  [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
-</p>
-
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
