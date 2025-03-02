@@ -99,7 +99,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzasaniya&show_icons=true&locale=en&layout=compact" alt="mirzasaniya" /></p>
 
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mirzsaniya&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><be>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mirzasaniya&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><be>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
