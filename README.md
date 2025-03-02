@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.
+😄 Pronouns: she/her   
 
-- ⚡ Fun fact: Recently Skydived World's Highest Tandem Jumps from 18,000ft!
-- 😄 Pronouns: she/her
+⚡ Fun fact: Recently Skydived World's Highest Tandem Jumps from 18,000ft!    
 
 ## 🔧 Skills & Expertise
 **Programming:** Python, SQL, R  
