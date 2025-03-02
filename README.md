@@ -107,6 +107,11 @@ Check out my **Data Analytics Projects** here:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
+<!-- Snek -->   
+<p align="center">
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
 Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
