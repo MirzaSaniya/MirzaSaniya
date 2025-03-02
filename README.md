@@ -103,7 +103,7 @@ Check out my **Data Analytics Projects** here:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
 
-*Made with ❤ by **Saniya Mirza****
+*Made with ❤ by **Saniya Mirza***
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
