@@ -17,7 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-  <h1 align="center">Hi 👋, I'm Saniya Mirza</h1>
 <h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI!
 </h3>
 
