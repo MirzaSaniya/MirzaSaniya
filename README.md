@@ -69,8 +69,6 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawithdanny" alt="datawithdanny" /></a> </p>
-
 - 📫 How to reach me **mirzasaniya305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
