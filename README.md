@@ -20,6 +20,8 @@
 <h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI!
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="datawithdanny" /> </p>
+
 ## 🚀 About Me
 I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.
 
@@ -66,10 +68,8 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaSaniya&show_icons=true&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="datawithdanny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawithdanny" alt="datawithdanny" /></a> </p>
 
@@ -91,12 +91,14 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+
+## 📊 GitHub Stats
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=mirzasaniya&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mirzasaniya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=radical" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mirzasaniya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><be>
 
 
