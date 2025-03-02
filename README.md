@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saniya</h1>
-<h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI![image](https://github.com/user-attachments/assets/259bd6fd-b8e3-4049-9ad8-2eda5ed366f8)
+<h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI!
 </h3>
 
 ## 🚀 About Me
-I'm a **Data Analyst** with 6+ years of experience specializing in **Cloud & Data Analytics**. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making.
-- ⚡ Fun fact: ...
+I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.
+
+- ⚡ Fun fact: Recently Skydived World's Highest Tandem Jumps from 18,000ft!
 - 😄 Pronouns: she/her
 
 ## 🔧 Skills & Expertise
@@ -12,6 +13,11 @@ I'm a **Data Analyst** with 6+ years of experience specializing in **Cloud & Dat
 - **Programming:** Python, SQL, R, Spark, Hadoop
 - **Data Visualization:** Tableau, Power BI, Looker, Alteryx
 - **Business Intelligence:** AWS QuickSight, Google Analytics, Adobe Analytics, Salesforce
+- Programming, Databases & ETL: Python, SQL, R, Oracle, BigQuery, Git, dbt, Airflow, Salesforce, Alteryx
+Cloud, Big Data & AI: AWS, Azure, GCP, Snowflake, Hadoop, Hive, Spark, Databricks, OpenSearch, Generative AI
+Business Intelligence & Data Visualization: Tableau, Power BI, Looker, AWS QuickSight, Adobe Analytics, Mode, Sigma, Excel
+![image](https://github.com/user-attachments/assets/20e4905a-2e58-4717-94bd-a1ff68b9a74a)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
