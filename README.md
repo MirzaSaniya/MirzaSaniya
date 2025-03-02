@@ -1,4 +1,23 @@
-<h1 align="center">Hi 👋, I'm Saniya</h1>
+<div align="center">
+
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi👋,%22I'm%2C%20Saniya%22);小孙同学祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+  <h1 align="center">Hi 👋, I'm Saniya Mirza</h1>
 <h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI!
 </h3>
 
@@ -36,14 +55,10 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 - **LinkedIn:** [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
-## 🌱 Currently Learning
-- AWS Certified Cloud Solutions Architect (In Progress)
-- Advanced Data Engineering Techniques
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaSaniya&show_icons=true&theme=radical)
 
-✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 
 
 
@@ -64,3 +79,5 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&locale=en" alt="datawithdanny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
+
+✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
