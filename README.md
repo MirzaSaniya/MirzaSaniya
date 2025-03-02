@@ -24,7 +24,7 @@
 
 
 ## 🚀 About Me
-I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.
+I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.  
 😄 Pronouns: she/her   
 
 ⚡ Fun fact: Recently Skydived World's Highest Tandem Jumps from 18,000ft!    
@@ -72,6 +72,8 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+
 
 ## 📊 GitHub Stats
 
