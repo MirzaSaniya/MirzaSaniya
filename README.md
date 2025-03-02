@@ -68,13 +68,13 @@ Check out my **Data Analytics Projects** here:
 
 **[New York Real Estate Analysis](https://github.com/MirzaSaniya/New-York-Real-Estate-Analysis/blob/main/New_York_Real_Estate_Analysis.ipynb)** I performed
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
+**[Car Data Analysis](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** I performed
 
 **[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)** I performed
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
+**[Boston Truck Permit Data Analysis](https://github.com/MirzaSaniya/Boston-Truck-Permit-Dataset-Analysis/blob/main/Boston_permit_Dataset_Analysis.ipynb)** I performed
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
+**[Fortune 500 Company Data Analysis](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** I performed
 
 
 
