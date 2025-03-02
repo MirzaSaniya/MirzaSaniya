@@ -100,6 +100,10 @@ Check out my **Data Analytics Projects** here:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
+ <tr>
+ <td>gradientBlue</td>
+ <td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=gradientBlue"></td>
+ </tr>
 
 Made with ❤ by **Saniya Mirza**
 
