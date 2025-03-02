@@ -41,7 +41,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzasaniya" alt="mirzasaniya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawithdanny" alt="datawithdanny" /></a> </p>
 
 - 📫 How to reach me **mirzasaniya305@gmail.com**
 
@@ -51,7 +51,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
   [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datawithdanny&show_icons=true&locale=en&layout=compact" alt="SaniyaMirza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzasaniya&show_icons=true&locale=en&layout=compact" alt="mirzasaniya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawithdanny&show_icons=true&locale=en" alt="datawithdanny" /></p>
 
