@@ -64,7 +64,7 @@ I'm a Data professional with 6+ years of experience in **Data Analytics, Data Sc
 ## 📂 Portfolio
 Check out my **Data Analytics Projects** here:   
 
-**[AirBnB Data Analysis]([https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb))** I performed
+**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** I performed
 
 **[New York Real Estate Analysis]([https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza](https://github.com/MirzaSaniya/New-York-Real-Estate-Analysis/blob/main/New_York_Real_Estate_Analysis.ipynb))** I performed
 
