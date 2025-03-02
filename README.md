@@ -100,13 +100,12 @@ Check out my **Data Analytics Projects** here:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
+Enjoy your day with some humor:
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 Made with ❤ by **Saniya Mirza**
-
-Enjoy your day with some humor:
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <p align="left">
