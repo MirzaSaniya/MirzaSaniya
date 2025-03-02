@@ -21,7 +21,12 @@
 
 
 ## 🚀 About Me
-I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.  
+I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making. I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GIC. I have a proven track record in boosting accuracy, reducing costs, and automating workflows in the technology, marketing, and finance domains.  
+
+I also enjoy attending (and sometimes winning) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+
+
+When I am not building data models and strategies I like to play Badminton, visit museums and do backyard gardening!  
 😄 Pronouns: she/her   
 
 ⚡ Fun fact: Recently Skydived the World's Highest Tandem Jumps from 18,000ft!    
