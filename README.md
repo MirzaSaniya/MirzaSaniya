@@ -111,6 +111,7 @@ Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 Made with ❤ by **Saniya Mirza**
 
