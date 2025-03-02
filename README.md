@@ -76,6 +76,7 @@ Check out my **Data Analytics Projects** here:
 
 **[Fortune 500 Company Data Analysis](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** I performed
 
+✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 
 
 
@@ -101,4 +102,5 @@ Check out my **Data Analytics Projects** here:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
 
-✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
+
+**Made with ❤ by **Saniya Mirza**
