@@ -18,13 +18,10 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
-<h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI!
-</h3>
 
 
 ## 🚀 About Me
-I'm a Data professional with 6+ years of experience in **Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.  
+I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making. Expertise in AWS, Snowflake, and Alteryx. Proven track record in boosting accuracy, reducing costs, and automating workflows.  
 😄 Pronouns: she/her   
 
 ⚡ Fun fact: Recently Skydived the World's Highest Tandem Jumps from 18,000ft!    
