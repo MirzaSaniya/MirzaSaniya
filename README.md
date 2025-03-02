@@ -39,7 +39,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a> [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
