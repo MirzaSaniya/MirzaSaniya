@@ -1,4 +1,6 @@
-# Hi there, I'm Saniya Mirza! 👋
+<h1 align="center">Hi 👋, I'm Saniya</h1>
+<h3 align="center">Data Professional with 6+ years of experience in Data Analytics, Data Science & AI![image](https://github.com/user-attachments/assets/259bd6fd-b8e3-4049-9ad8-2eda5ed366f8)
+</h3>
 
 ## 🚀 About Me
 I'm a **Data Analyst** with 6+ years of experience specializing in **Cloud & Data Analytics**. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making.
@@ -33,8 +35,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 ---
 ✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 
-<h1 align="center">Hi 👋, I'm Saniya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="mirzasaniya" /> </p>
 
