@@ -106,6 +106,8 @@ Check out my **Data Analytics Projects** here:
 Made with ❤ by **Saniya Mirza**
 
 Enjoy your day with some humor:
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
