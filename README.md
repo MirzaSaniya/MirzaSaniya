@@ -53,6 +53,6 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzasaniya&show_icons=true&locale=en&layout=compact" alt="mirzasaniya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawithdanny&show_icons=true&locale=en" alt="datawithdanny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&locale=en" alt="datawithdanny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
