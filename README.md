@@ -86,7 +86,7 @@ Check out my **Data Analytics Projects** here:
 
 
 <!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" /><br/></div>
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" /><br/></div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
