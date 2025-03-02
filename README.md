@@ -35,12 +35,11 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaSaniya&show_icons=true&theme=radical)
 
----
 ✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="mirzasaniya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzasaniya" alt="mirzasaniya" /></a> </p>
 
