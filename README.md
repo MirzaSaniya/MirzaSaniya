@@ -21,7 +21,9 @@
 
 
 ## 🚀 About Me
-I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making. I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GIC. I have a proven track record in boosting accuracy, reducing costs, and automating workflows in the technology, marketing, and finance domains.  
+I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making.   
+
+I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GIC. I have a proven track record in boosting accuracy, reducing costs, and automating workflows in the technology, marketing, and finance domains.  
 
 I also enjoy attending (and sometimes winning) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
 
