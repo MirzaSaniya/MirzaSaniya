@@ -27,12 +27,13 @@ I'm a Data professional with 6+ years of experience in **Data Analytics, Data Sc
 - 😄 Pronouns: she/her
 
 ## 🔧 Skills & Expertise
-- **Programming:** Python, SQL, R 
-- **Business Intelligence & Data Visualization:** Tableau, Power BI, Alteryx, Looker, AWS QuickSight, Mode, Sigma, Excel
-- **Marketing & Web Analytics:** Adobe Analytics, Google Analytics, Salesforce- **Cloud:** AWS, Azure, GCP, Snowflake
-- **Big Data & Distributed Computing:** Snowflake, Hadoop, Hive, Spark, Databricks, Oracle, BigQuery
-- **ETL & Data Pipelines:** dbt, Airflow, Git
-- **Artificial Intelligence:** Generative AI, OpenSearch
+**Programming:** Python, SQL, R 
+**Business Intelligence & Data Visualization:** Tableau, Power BI, Alteryx, Looker, AWS QuickSight, Mode, Sigma, Excel
+**Marketing & Web Analytics:** Adobe Analytics, Google Analytics, Salesforce
+**Cloud:** AWS, Azure, GCP, Snowflake
+**Big Data & Distributed Computing:** Snowflake, Hadoop, Hive, Spark, Databricks, Oracle, BigQuery
+**ETL & Data Pipelines:** dbt, Airflow, Git
+**Artificial Intelligence:** Generative AI, OpenSearch
 
 
 <h3 align="left">Languages and Tools:</h3>
