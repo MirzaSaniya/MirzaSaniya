@@ -79,11 +79,6 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
   [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&locale=en" alt="mirzasaniya" /></p>
-
-
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
