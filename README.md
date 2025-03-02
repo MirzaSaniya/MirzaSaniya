@@ -19,6 +19,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+    <p>
       <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
 
       
