@@ -19,11 +19,9 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <summary><b>👤 About</b></summary>
-    <p>
       <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+
       
-<blockquote>
 ## 🚀 About Me
 I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making.   
 
