@@ -105,6 +105,6 @@ Check out my **Data Analytics Projects** here:
 
 *Made with ❤ by **Saniya Mirza****
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=*Made with ❤ by **Saniya Mirza****
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=*Made with ❤ by **Saniya Mirza***
 &height=100&section=footer"/>
 </p>
