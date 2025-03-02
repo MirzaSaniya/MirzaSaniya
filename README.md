@@ -70,7 +70,7 @@ Check out my **Data Analytics Projects** here:
 
 **[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
+**[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)** I performed
 
 **[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza)** I performed
 
