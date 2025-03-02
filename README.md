@@ -69,9 +69,6 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaSaniya&show_icons=true&theme=radical)
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawithdanny" alt="datawithdanny" /></a> </p>
 
 - 📫 How to reach me **mirzasaniya305@gmail.com**
@@ -84,7 +81,7 @@ Check out my **Data Analytics Projects** here: [SaniyaMirza Portfolio](https://M
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&locale=en" alt="datawithdanny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&locale=en" alt="mirzasaniya" /></p>
 
 
 <!-- Quotes 名人名言 -->
