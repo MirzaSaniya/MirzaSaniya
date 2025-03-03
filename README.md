@@ -149,8 +149,7 @@ Check out my **Data Analytics Projects** here:
 <a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
-Made with ❤ by **Saniya Mirza**
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+Made with ❤ by **Saniya Mirza**
