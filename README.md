@@ -88,16 +88,18 @@ Check out my **Data Analytics Projects** here:
 - Predict the Real Estate transaction price of the house by Regression Performance Metric (KPI) using Root Mean Squared Error (RMSE), R-squared and Mean Absolute Error. Performed classification, segmentation and correlation analysis.
 - Feature Engineered using One Hot Encoding. Evaluated XGBoost Regression, Lasso Regression, Random Forest Regression and Logistic Regression.
 
-</div>  
 
-
-**[Car Data Analysis](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** I performed
+**[Car Price Predictor with Random Forests](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
+- I performed Outlier Detection and Exploratory Data Analysis on this dataset that contains more than 10,000 rows and more than 10 columns which contain features of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
 
 **[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)** I performed
 
 **[Boston Truck Permit Data Analysis](https://github.com/MirzaSaniya/Boston-Truck-Permit-Dataset-Analysis/blob/main/Boston_permit_Dataset_Analysis.ipynb)** I performed
 
 **[Fortune 500 Company Data Analysis](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** I performed
+
+</div>  
+
 
 ✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 </div>  
