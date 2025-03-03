@@ -27,7 +27,7 @@
   <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="280" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
 </p>
 
-I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making.   
+I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making.   
 
 I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GIC. I have a proven track record in boosting accuracy, reducing costs, and automating workflows in the technology, marketing, and finance domains.  
 
@@ -38,7 +38,7 @@ I also enjoy attending (and sometimes winning) hackathons and coding competition
 
 When I am not building data models and strategies I like to play Badminton, visit museums and do backyard gardening!  
 😄 Pronouns: she/her   
-
+📍 San Francisco Bay Area, California, USA
 ⚡ Fun fact: Recently Skydived the World's Highest Tandem Jumps from 18,000ft!    
 </div>  
 
