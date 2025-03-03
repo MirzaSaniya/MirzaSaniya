@@ -23,9 +23,8 @@
   <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="300" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
 </p>
 
-![Srihari Kapu](https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true)
 
-<img align="right" width="88" src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG" />
+
 
       
 ## 🚀 About Me
