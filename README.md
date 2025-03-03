@@ -116,8 +116,14 @@ Check out my **Data Analytics Projects** here:
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
 </div>
+
+## 💻 Hackathons/Appprenticeship 
+-**HackBLK Hackathon 2023, Runner-up:** Designed commission-based auto-investing app using Keras to promote financial democratization 
+-**ServiceNow Accenture Hackathon 2021, Winner:** Built anomaly/threat detection ML model; reducing security vulnerability by 20%
+-**Jeeva Health AI (2021):** Built SciPy Python model & SQL to assess health datasets, improving preventative care strategies by 30% 
+-**Alicorn Venture (2020):** Developed Bitcoin price prediction SQL models, driving key insights influencing tech investment decisions 
+-**Google DSC (2019-21):** Prototyped MVP and BI strategies for AyyGo app; built a GTM plan achieving $50K in revenue
 
 
 ## 📫 Connect With Me
