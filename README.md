@@ -45,7 +45,7 @@ When I am not building data models and strategies I like to play Badminton, visi
 **MBA - Business Analytics, Finance:** CIMP, India     
 **BS - Statistics, Finance:** Patna Women’s College, India    
 
-**Certifications:** - AWS Certified Cloud Solutions Architect, Snowflake Data Engineering Techniques
+**Certifications:** AWS Certified Cloud Solutions Architect, Snowflake Data Engineering Techniques
 </div>  
 
 
@@ -123,12 +123,6 @@ Check out my **Data Analytics Projects** here:
 **Google DSC (2019-21):** Prototyped MVP and BI strategies for AyyGo app; built a GTM plan achieving $50K in revenue   
 
 
-## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
-<a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
-- **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
-
-
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" /><br/></div>
 
@@ -146,6 +140,11 @@ Check out my **Data Analytics Projects** here:
 ## Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
+<a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
+- **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 
 Made with ❤ by **Saniya Mirza**
