@@ -71,7 +71,9 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio
 Check out my **Data Analytics Projects** here:   
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** I performed
+**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
+
+
 
 **[New York Real Estate Analysis](https://github.com/MirzaSaniya/New-York-Real-Estate-Analysis/blob/main/New_York_Real_Estate_Analysis.ipynb)** I performed
 
