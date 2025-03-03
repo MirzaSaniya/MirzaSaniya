@@ -20,7 +20,7 @@
   <div>&nbsp;</div>
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://drive.google.com/file/d/1gVetHZUhThmAzh7lTsLzxMzYeObzNb5m/view?usp=sharing?raw=true"></a>
+  <a href="https://drive.google.com/file/d/1gVetHZUhThmAzh7lTsLzxMzYeObzNb5m/view?usp=sharing"><img width="300" align='right' src="https://drive.google.com/file/d/1gVetHZUhThmAzh7lTsLzxMzYeObzNb5m/view?usp=sharing?raw=true"></a>
 </p>
 
       
