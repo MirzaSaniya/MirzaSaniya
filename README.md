@@ -32,7 +32,7 @@ I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GI
 I enjoy attending (and sometimes winning) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
 
 When I am not building data models and strategies I like to play Badminton, visit museums and do backyard gardening!  
-😄 Pronouns: she/her   
+
 📍 San Francisco Bay Area, California, USA  
 ⚡ Fun fact: Recently Skydived the World's Highest Tandem Jumps from 18,000ft!    
 </div>  
@@ -107,7 +107,6 @@ Check out my **Data Analytics Projects** here:
 - The fortune 500 company list is a compilation of the largest companies in the United States as published by the Fortune Magazine. For this micro-study, I determined it would be interesting to study the Fortune 500 companies collectively to find any interesting trends or observations.
 - I analysed the top companies region, industry and sector as % of Revenues and Profit as % of Revenues. I have used sklearn (Random Forrest Regression) to find relationship between profit and employee and the key KPIs that determine employee efficiency and profitability.
 
-✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 </div>  
 
 </div>
@@ -141,7 +140,7 @@ Check out my **Data Analytics Projects** here:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaniya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
  
 
-## Enjoy your day with some humor:
+## 🔆 Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
