@@ -43,7 +43,6 @@ When I am not building data models and strategies I like to play Badminton, visi
 
 
 <p align="left">
-  
 ## 🎓 Educational Learning
 **Computer Science for Artificial Intelligence:** Harvard University, USA    
 **MS - Data Analytics, Data Science:** Northeastern University, USA    
