@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="mirzasaniya" /> </p>
-
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -75,6 +73,12 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio  
 Check out my **Data Analytics Projects** here:
 
+**[PRiSE - Predictive Risk Scoring Engine using Machine Learning (Python, SQL) to reduce loan defaults](https://drive.google.com/file/d/1D5ABJ0wycU69jcHpxwls-e-1bRz8Gu7W/view?usp=sharing)** 
+- Built PRiSE - Predictive Risk Scoring Engine using Machine Learning techniques to detect a potential home loan defaulter by studying reducing loan defaults by 28%
+- Awarded Best Publication Award at the Global Business and Finance Research: Impact of Statistical & Risk Variables on Non-Performing Loans
+- The data analysis explores microeconomic factors attributing to default such as demographics, geographic, credit appraisal and loan-specific elements. Predictive models and ultiple discriminant analysis has been performed in SQL and R to establish a relationship between the independent variables (microeconomic and loan-specific factors) in identifying their contribution to the classification of loans.
+
+  
 **[Data Exploration on Airbnb Listings in New York City using Python libraries and SQL](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** 
 - Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
 - Queryed in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required  and performed data transformation for dashboard visualization in Tableau
@@ -97,10 +101,6 @@ Check out my **Data Analytics Projects** here:
 **[Fortune 500 Company Profitability and Employee Efficiency Metrics](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** 
 - The fortune 500 company list is a compilation of the largest companies in the United States as published by the Fortune Magazine. For this micro-study, I determined it would be interesting to study the Fortune 500 companies collectively to find any interesting trends or observations.
 - I analysed the top companies region, industry and sector as % of Revenues and Profit as % of Revenues. I have used sklearn (Random Forrest Regression) to find relationship between profit and employee and the key KPIs that determine employee efficiency and profitability.
-
-**[PRiSE - Predictive Risk Scoring Engine using Machine Learning (Python, SQL) to reduce loan defaults](https://drive.google.com/file/d/1D5ABJ0wycU69jcHpxwls-e-1bRz8Gu7W/view?usp=sharing)** 
-- Built PRiSE - Predictive Risk Scoring Engine using Machine Learning techniques to detect a potential home loan defaulter by studying reducing loan defaults by 28%
-- The study explores microeconomic factors attributing to default such as demographics, geographic, credit appraisal and loan-specific elements. Predictive models and ultiple discriminant analysis has been performed in SQL and R to establish a relationship between the independent variables (microeconomic and loan-specific factors) in identifying their contribution to the classification of loans. 
 
 ✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 </div>  
@@ -140,9 +140,7 @@ Check out my **Data Analytics Projects** here:
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaniya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mirzasaniya&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+ 
 
 
 ## Enjoy your day with some humor:
