@@ -110,16 +110,6 @@ Check out my **Data Analytics Projects** here:
   <br>
   <br>
 
-</p>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mirzasaniya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=darcula" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzasaniya&show_icons=true&locale=en&layout=compact" alt="mirzasaniya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithdanny&" alt="datawithdanny" /></p>
-
-
 
 Enjoy your day with some humor:
 
