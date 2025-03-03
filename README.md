@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="datawithdanny" /> </p>
+----<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="mirzasaniya" /> </p>
 
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi👋,%20I'm%20Saniya%20Mirza;Welcome+to+my+Github!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi👋,%20I'm%20Saniya%20Mirza&center=true&size=35" />
     </a>
   </div>
 
