@@ -90,9 +90,11 @@ Check out my **Data Analytics Projects** here:
 
 
 **[Car Price Predictor with Random Forests](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
-- I performed Outlier Detection and Exploratory Data Analysis on this dataset that contains more than 10,000 rows and more than 10 columns which contain features of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
+- I performed Outlier Detection and Exploratory Data Analysis on this dataset that contains more than 10,000 rows and more than 10 columns which contain feature of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
 
-**[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)** I performed
+**[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)**  
+- Conducted regression models and predicted the likelihood of a Pokemon winning a battle. To determine how accurate our predictions are, there are many metrics that the Sklearn library provides us like SVM, Regression Tree, Random Forrest, XGboot to improve the PCA section by looking at the loadings of the principle components. The model with the least error was the XGBoost with reduced factors where we only used attack and speed to predict the win percentage. 
+
 
 **[Boston Truck Permit Data Analysis](https://github.com/MirzaSaniya/Boston-Truck-Permit-Dataset-Analysis/blob/main/Boston_permit_Dataset_Analysis.ipynb)** I performed
 
