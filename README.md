@@ -1,4 +1,4 @@
-ntt<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="datawithdanny" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="datawithdanny" /> </p>
 
 <div align="center">
 
@@ -18,9 +18,6 @@ ntt<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&l
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
-    <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
 
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
