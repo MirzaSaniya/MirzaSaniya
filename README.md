@@ -24,7 +24,7 @@
       
 ## 🚀 About Me
 <p>
-  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="280" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
+  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="250" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
 </p>
 
 I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading data projects in cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making.   
@@ -102,9 +102,6 @@ Check out my **Data Analytics Projects** here:
 - Built PRiSE - Predictive Risk Scoring Engine using Machine Learning techniques to detect a potential home loan defaulter by studying reducing loan defaults by 28%
 - The study explores microeconomic factors attributing to default such as demographics, geographic, credit appraisal and loan-specific elements. Predictive models and ultiple discriminant analysis has been performed in SQL and R to establish a relationship between the independent variables (microeconomic and loan-specific factors) in identifying their contribution to the classification of loans. 
 
-</div>  
-
-
 ✨ Always open to collaboration and new opportunities in Data & Cloud Analytics!
 </div>  
 
@@ -119,11 +116,11 @@ Check out my **Data Analytics Projects** here:
 </div>
 
 ## 💻 Hackathons/Appprenticeship 
--**HackBLK Hackathon 2023, Runner-up:** Designed commission-based auto-investing app using Keras to promote financial democratization 
--**ServiceNow Accenture Hackathon 2021, Winner:** Built anomaly/threat detection ML model; reducing security vulnerability by 20%
--**Jeeva Health AI (2021):** Built SciPy Python model & SQL to assess health datasets, improving preventative care strategies by 30% 
--**Alicorn Venture (2020):** Developed Bitcoin price prediction SQL models, driving key insights influencing tech investment decisions 
--**Google DSC (2019-21):** Prototyped MVP and BI strategies for AyyGo app; built a GTM plan achieving $50K in revenue
+**HackBLK Hackathon 2023, Runner-up:** Designed commission-based auto-investing app using Keras to promote financial democratization   
+**ServiceNow Accenture Hackathon 2021, Winner:** Built anomaly/threat detection ML model; reducing security vulnerability by 20%     
+**Jeeva Health AI (2021):** Built SciPy Python model & SQL to assess health datasets, improving preventative care strategies by 30%    
+**Alicorn Venture (2020):** Developed Bitcoin price prediction SQL models, driving key insights influencing tech investment decisions    
+**Google DSC (2019-21):** Prototyped MVP and BI strategies for AyyGo app; built a GTM plan achieving $50K in revenue   
 
 
 ## 📫 Connect With Me
@@ -152,7 +149,6 @@ Check out my **Data Analytics Projects** here:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 Made with ❤ by **Saniya Mirza**
 
