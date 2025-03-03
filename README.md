@@ -22,7 +22,7 @@
       
 ## 🚀 About Me
 <p>
-  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="250" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
+  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="230" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
 </p>
 
 I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading data projects in cloud architectures. Passionate about leveraging **SQL, Python, and BI tools** to uncover insights and drive decision-making.   
@@ -87,6 +87,11 @@ Check out my **Data Analytics Projects** here:
 - Predict the Real Estate transaction price of the house by Regression Performance Metric (KPI) using Root Mean Squared Error (RMSE), R-squared and Mean Absolute Error. Performed classification, segmentation and correlation analysis.
 - Feature Engineered using One Hot Encoding. Evaluated XGBoost Regression, Lasso Regression, Random Forest Regression and Logistic Regression.
 
+**[COVID-19 Database Analysis using SQL](https://github.com/MirzaSaniya/COVID-19-Database-Analysis-using-SQL/blob/main/COVID%20Portfolio%20Project.sql)** 
+- The dataset contains records of Covid-19 cases, deaths and vaccine records by each country in 2020-2021. I have conducted data loading, data cleaning and preprocessing and EDA (exploratory data analysis) in SQL Server using Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**[Data Manipulation on Nashville city housing](https://github.com/MirzaSaniya/Machine-Learning-Real-Estate/blob/main/Machine_Learning_Real_Estate.ipynb)** 
+- Data Manipulation on the city dataset that contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing in DML(Data Manipulation Language), DQL (Data Query Language) and DDL (Data Definition Language) on PostgreSQL.
 
 **[Car Price Predictor with Random Forests Regression](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
 - I performed Outlier Detection and Exploratory Data Analysis on this dataset that contains more than 10,000 rows and more than 10 columns which contain feature of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
