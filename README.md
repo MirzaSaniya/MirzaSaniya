@@ -115,7 +115,7 @@ Check out my **Data Analytics Projects** here:
   </picture>
 </div>
 
-## 💻 Hackathons/Appprenticeship 
+## 💻 Hackathons/Apprenticeship 
 **HackBLK Hackathon 2023, Runner-up:** Designed commission-based auto-investing app using Keras to promote financial democratization   
 **ServiceNow Accenture Hackathon 2021, Winner:** Built anomaly/threat detection ML model; reducing security vulnerability by 20%     
 **Jeeva Health AI (2021):** Built SciPy Python model & SQL to assess health datasets, improving preventative care strategies by 30%    
@@ -136,7 +136,6 @@ Check out my **Data Analytics Projects** here:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaniya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
  
 
-
 ## Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -146,9 +145,7 @@ Check out my **Data Analytics Projects** here:
 <a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
 - **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
-
 Made with ❤ by **Saniya Mirza**
-
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
