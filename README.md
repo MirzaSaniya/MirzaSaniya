@@ -23,7 +23,10 @@
   <a href="https://drive.google.com/file/d/1gVetHZUhThmAzh7lTsLzxMzYeObzNb5m/view?usp=sharing"><img width="300" align='right' src="https://drive.google.com/file/d/1gVetHZUhThmAzh7lTsLzxMzYeObzNb5m/view?usp=sharing?raw=true"></a>
 </p>
 
-![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
+![Srihari Kapu](https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true)
+
+<img align="right" width="88" src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG" />
+
       
 ## 🚀 About Me
 I'm a **Data professional with 6+ years of experience in Data Analytics, Data Science & AI**, leading projects and optimizing multi-cloud architectures based out of San Francisco Bay Area, California. Passionate about leveraging **SQL, Python, Cloud and BI tools** to uncover insights and drive decision-making.   
