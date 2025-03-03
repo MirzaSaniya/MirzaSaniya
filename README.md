@@ -90,7 +90,7 @@ Check out my **Data Analytics Projects** here:
 **[COVID-19 Database Analysis using SQL](https://github.com/MirzaSaniya/COVID-19-Database-Analysis-using-SQL/blob/main/COVID%20Portfolio%20Project.sql)** 
 - The dataset contains records of Covid-19 cases, deaths and vaccine records by each country in 2020-2021. I have conducted data loading, data cleaning and preprocessing and EDA (exploratory data analysis) in SQL Server using Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**[Data Manipulation on Nashville city housing](https://github.com/MirzaSaniya/Machine-Learning-Real-Estate/blob/main/Machine_Learning_Real_Estate.ipynb)** 
+**[Data Manipulation on Nashville city housing](https://github.com/MirzaSaniya/Data-Manipulation-on-Nashville-city/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)** 
 - Data Manipulation on the city dataset that contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing in DML(Data Manipulation Language), DQL (Data Query Language) and DDL (Data Definition Language) on PostgreSQL.
 
 **[Car Price Predictor with Random Forests Regression](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
