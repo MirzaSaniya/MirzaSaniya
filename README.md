@@ -27,7 +27,7 @@ I'm a **Data professional with 6+ years of experience in Data Analytics, Data Sc
 I have worked at BlackRock, SAP, SkyGeni, Northeastern University, ICICI, and GIC. I have a proven track record in boosting accuracy, reducing costs, and automating workflows in the technology, marketing, and finance domains.  
 
 <p>
-  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="150" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
+  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="200" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
 </p>
 
 I also enjoy attending (and sometimes winning) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
