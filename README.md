@@ -43,11 +43,13 @@ When I am not building data models and strategies I like to play Badminton, visi
 
 
 <p align="left">
+  
 ## 🎓 Educational Learning
 **Computer Science for Artificial Intelligence:** Harvard University, USA    
 **MS - Data Analytics, Data Science:** Northeastern University, USA    
 **MBA - Business Analytics, Finance:** CIMP, India     
 **BS - Statistics, Finance:** Patna Women’s College, India    
+</p>
 
 **Certifications:** - AWS Certified Cloud Solutions Architect, Snowflake Data Engineering Techniques
 
