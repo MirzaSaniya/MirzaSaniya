@@ -19,12 +19,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-<p>
-  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="150" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
-</p>
-
-
-
 
       
 ## 🚀 About Me
@@ -39,6 +33,11 @@ When I am not building data models and strategies I like to play Badminton, visi
 😄 Pronouns: she/her   
 
 ⚡ Fun fact: Recently Skydived the World's Highest Tandem Jumps from 18,000ft!    
+
+<p>
+  <a href="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG"><img width="150" align='right' src="https://github.com/MirzaSaniya/MirzaSaniya/blob/main/saniyapic.PNG?raw=true"></a>
+</p>
+
 
 ## 🎓 Educational Learning
 **Computer Science for Artificial Intelligence:** Harvard University, USA    
