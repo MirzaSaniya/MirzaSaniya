@@ -84,21 +84,28 @@ Check out my **Data Analytics Projects** here:
 - Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
 - Queryed in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required  and performed data transformation for dashboard visualization in Tableau
 
-**[Machine Learning Prediction of Real Estate](https://github.com/MirzaSaniya/Machine-Learning-Real-Estate/blob/main/Machine_Learning_Real_Estate.ipynb)** 
+**[Machine Learning Prediction of Real Estate used Regression](https://github.com/MirzaSaniya/Machine-Learning-Real-Estate/blob/main/Machine_Learning_Real_Estate.ipynb)** 
 - Predict the Real Estate transaction price of the house by Regression Performance Metric (KPI) using Root Mean Squared Error (RMSE), R-squared and Mean Absolute Error. Performed classification, segmentation and correlation analysis.
 - Feature Engineered using One Hot Encoding. Evaluated XGBoost Regression, Lasso Regression, Random Forest Regression and Logistic Regression.
 
 
-**[Car Price Predictor with Random Forests](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
+**[Car Price Predictor with Random Forests Regression](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** 
 - I performed Outlier Detection and Exploratory Data Analysis on this dataset that contains more than 10,000 rows and more than 10 columns which contain feature of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
 
-**[Pokemon Data Analysis](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)**  
+**[Pokemon Winning Prediction Accuracy Test](https://github.com/MirzaSaniya/Pokemon-Data-Analysis-Saniya-Mirza/blob/main/Pokemon_Data_Analysis_Saniya_Mirza.ipynb)**  
 - Conducted regression models and predicted the likelihood of a Pokemon winning a battle. To determine how accurate our predictions are, there are many metrics that the Sklearn library provides us like SVM, Regression Tree, Random Forrest, XGboot to improve the PCA section by looking at the loadings of the principle components. The model with the least error was the XGBoost with reduced factors where we only used attack and speed to predict the win percentage. 
 
 
-**[Boston Truck Permit Data Analysis](https://github.com/MirzaSaniya/Boston-Truck-Permit-Dataset-Analysis/blob/main/Boston_permit_Dataset_Analysis.ipynb)** I performed
+**[Boston Truck Permit Data Analysis](https://github.com/MirzaSaniya/Boston-Truck-Permit-Dataset-Analysis/blob/main/Boston_permit_Dataset_Analysis.ipynb)** 
+- I performed a daily export of all moving truck permits issued by the Boston city. Both the raw data and the interactive map are updated daily with the latest available data. Python libraries like SciPy, matplotlib, Pandas and Numpy have been used for the data modeling and data visualization
 
-**[Fortune 500 Company Data Analysis](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** I performed
+**[Fortune 500 Company Profitability and Employee Efficiency Metrics](https://github.com/MirzaSaniya/Fortune-500-Companies-Performance-Analysis/blob/main/Fortune_500_Companies_Performance_Analysis.ipynb)** 
+- The fortune 500 company list is a compilation of the largest companies in the United States as published by the Fortune Magazine. For this micro-study, I determined it would be interesting to study the Fortune 500 companies collectively to find any interesting trends or observations.
+- I analysed the top companies region, industry and sector as % of Revenues and Profit as % of Revenues. I have used sklearn (Random Forrest Regression) to find relationship between profit and employee and the key KPIs that determine employee efficiency and profitability.
+
+**[PRiSE - Predictive Risk Scoring Engine using Machine Learning (Python, SQL) to reduce loan defaults](https://drive.google.com/file/d/1D5ABJ0wycU69jcHpxwls-e-1bRz8Gu7W/view?usp=sharing)** 
+- Built PRiSE - Predictive Risk Scoring Engine using Machine Learning techniques to detect a potential home loan defaulter by studying reducing loan defaults by 28%
+- The study explores microeconomic factors attributing to default such as demographics, geographic, credit appraisal and loan-specific elements. Predictive models and ultiple discriminant analysis has been performed in SQL and R to establish a relationship between the independent variables (microeconomic and loan-specific factors) in identifying their contribution to the classification of loans. 
 
 </div>  
 
@@ -140,7 +147,7 @@ Check out my **Data Analytics Projects** here:
   <br>
 
 
-Enjoy your day with some humor:
+## Enjoy your day with some humor:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
