@@ -140,16 +140,17 @@ Check out my **Data Analytics Projects** here:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaniya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
  
 
-## 🔆 Enjoy your day with some humor:
+## 🔆 Enjoy your day with some humor
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
+## 📫 Connect With Me  
+**LinkedIn:** [linkedin.com/in/SaniyaMirza](https://www.linkedin.com/in/SaniyaMirza)
 <a href="https://linkedin.com/in/saniyamirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniyamirza" height="30" width="40" /></a>
-- **Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
+**Email:** [mirzasaniya305@gmail.com](mailto:mirzasaniya305@gmail.com)
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
 Made with ❤ by **Saniya Mirza**
