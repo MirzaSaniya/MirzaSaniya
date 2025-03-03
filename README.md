@@ -80,16 +80,16 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio  
 Check out my **Data Analytics Projects** here:
 
-
 **[Data Exploration on Airbnb Listings in New York City using Python libraries and SQL](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** 
 - Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
 - Queryed in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required  and performed data transformation for dashboard visualization in Tableau
 
+**[Machine Learning Prediction of Real Estate](https://github.com/MirzaSaniya/Machine-Learning-Real-Estate/blob/main/Machine_Learning_Real_Estate.ipynb)** 
+- Predict the Real Estate transaction price of the house by Regression Performance Metric (KPI) using Root Mean Squared Error (RMSE), R-squared and Mean Absolute Error. Performed classification, segmentation and correlation analysis.
+- Feature Engineered using One Hot Encoding. Evaluated XGBoost Regression, Lasso Regression, Random Forest Regression and Logistic Regression.
+
 </div>  
 
-
-
-**[New York Real Estate Analysis](https://github.com/MirzaSaniya/New-York-Real-Estate-Analysis/blob/main/New_York_Real_Estate_Analysis.ipynb)** I performed
 
 **[Car Data Analysis](https://github.com/MirzaSaniya/Car-Exploratory-Data-Analysis-in-Python-Saniya-Mirza/blob/main/Car_Exploratory_Data_Analysis_in_Python_Saniya_Mirza.ipynb)** I performed
 
