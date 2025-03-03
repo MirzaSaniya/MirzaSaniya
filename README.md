@@ -71,7 +71,11 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio
 Check out my **Data Analytics Projects** here:   
 
-**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
+**[AirBnB Data Analysis](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** 
+1. Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. 
+2. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
+3. Queryed in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required  and performed data transformation for dashboard visualization in Tableau
+
 
 
 
