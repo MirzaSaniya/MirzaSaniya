@@ -45,6 +45,7 @@ When I am not building data models and strategies I like to play Badminton, visi
 
 
 <div align="left">
+  
 ## 🎓 Educational Learning
 **Computer Science for Artificial Intelligence:** Harvard University, USA    
 **MS - Data Analytics, Data Science:** Northeastern University, USA    
@@ -56,6 +57,7 @@ When I am not building data models and strategies I like to play Badminton, visi
 
 
 <div align="left">
+  
 ## 🔧 Skills & Expertise
 **Programming:** Python, SQL, R  
 **Business Intelligence & Data Visualization:** Tableau, Power BI, Alteryx, Looker, AWS QuickSight, Mode, Sigma, Excel   
