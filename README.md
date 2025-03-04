@@ -78,7 +78,12 @@ Check out my **Data Analytics Projects** here:
 - Awarded Best Publication Award at the Global Business and Finance Research: Impact of Statistical & Risk Variables on Non-Performing Loans
 - The data analysis explores microeconomic factors attributing to default such as demographics, geographic, credit appraisal and loan-specific elements. Predictive models and ultiple discriminant analysis has been performed in SQL and R to establish a relationship between the independent variables (microeconomic and loan-specific factors) in identifying their contribution to the classification of loans.
 
-  
+**[Amazon Customer Segmentation and Recommendation System using Python libraries](https://github.com/MirzaSaniya/Amazon-Customer-Segmentation-and-Recommendation-System-Saniya-Mirza/blob/main/Amazon_Customer_Segmentation_and_Recommendation_System_Saniya_Mirza.ipynb)** 
+- Feature Engineering based on the transactional data to create a customer-centric dataset, setting the foundation for customer segmentation. Undertake feature scaling and dimensionality reduction to streamline the data, enhancing the efficiency of the clustering process.
+- Customer Segmentation using K-Means Clustering - segment customers into distinct groups using K-means, facilitating targeted marketing and personalized strategies.
+- Cluster Analysis & Evaluation - analyze and profile each cluster to develop targeted marketing strategies and assess the quality of the clusters formed.
+- Recommendation System - implement a system to recommend best-selling products to customers within the same cluster who haven't purchased those products, aiming to boost sales and marketing effectiveness.
+
 **[Data Exploration on Airbnb Listings in New York City using Python libraries and SQL](https://github.com/MirzaSaniya/Airbnb-Exploratory-Data-Analysis-Saniya-Mirza/blob/main/Airbnb_Exploratory_Data_Analysis_Saniya_Mirza.ipynb)** 
 - Performed deep data exploration and analyzed popular listings and the busiest hosts based on metrics in NYC, NY using Panda NumPy, matplotlib.pyplot and Seaborn Python libraries. Analyzed the trends by text analysis the busiest hosts based on metrics reviews and different attributes by geographical heatmap.
 - Queryed in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required  and performed data transformation for dashboard visualization in Tableau
