@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect-->
   <div>
     <a href="https://www.google.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=453&lines=Hi👋,%20I'm%20Saniya%20Mirza&center=true&size=33" />
