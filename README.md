@@ -145,7 +145,59 @@ Check out my **Data Analytics Projects** here:
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaniya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
- 
+
+# All Demos
+
+*   Default
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya)
+
+*   Hiding specific stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&hide=contribs,issues)
+
+*   Showing additional stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+*   Showing icons
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&hide=issues\&show_icons=true)
+
+*   Shows Github logo instead rank level
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&rank_icon=github)
+
+*   Shows user rank percentile instead of rank level
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&rank_icon=percentile)
+
+*   Customize Border Color
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&border_color=2e4058)
+
+*   Include All Commits
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&include_all_commits=true)
+
+*   Themes
+
+Choose from any of the [default themes](#themes)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya&show_icons=true\&theme=radical)
+
+*   Gradient
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzasaniya\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+*   Customizing stats card
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mirzasaniya\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+*   Setting card locale
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mirzasaniya\&locale=es)
+
 
 ## 🔆 Enjoy your day with some humor
 
