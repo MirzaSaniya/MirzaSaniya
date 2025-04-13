@@ -80,6 +80,20 @@ Check out my **Data Analytics Projects** here:
 - Refined acquisition strategies via pricing elasticity modeling, promotion impact assessment (CausalImpact, diff-in-diff), and competitive benchmarking using web scraping and sentiment analysis.
 
 
+**[Walmart Sales Price Prediction using Linear Regression, Random Forest, XGBoost, k-Nearest Neighbor](https://github.com/MirzaSaniya/Walmart-Sales-Price-Prediction-using-Linear-Regression-Random-Forest-XGBoost-k-Nearest-Neighbor-/blob/main/Walmart_Time_Series_Forecast.ipynb)** 
+- Built predictive models (Linear Regression, Random Forest, XGBoost, k-NN) to forecast product sales prices across stores and departments, leveraging time series features and historical trends.
+- Analyzed large-scale retail datasets to uncover seasonal patterns, holiday effects, and store-level demand variations for better inventory planning and dynamic pricing strategies.
+- Segmented customers and products based on purchase behavior, store location, and promotional responsiveness to optimize regional marketing and acquisition efforts.
+- Delivered actionable insights to assist in strategic investment and merchandising decisions by identifying high-impact levers influencing price sensitivity and sales uplift.
+
+
+**[Time Series Forecast for Revenue (ARR) and Sales using Python](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
+- Forecasted Annual Recurring Revenue (ARR) using Python-based time series models (ARIMA, Prophet, LSTM) to uncover growth patterns, seasonality, and churn trends across customer segments.
+- Analyzed customer acquisition trends & conversion funnels using cohort analysis, funnel visualization, and time-to-conversion metrics to identify bottlenecks and high-performing channels.
+- Evaluated marketing efficiency through multi-touch attribution, CPA vs. LTV analysis, and campaign ROI to optimize spend and uncover underperforming channels.
+- Refined acquisition strategies via pricing elasticity modeling, promotion impact assessment (CausalImpact, diff-in-diff), and competitive benchmarking using web scraping and sentiment analysis.
+
+
 **[PRiSE - Predictive Risk Scoring Engine using Machine Learning (Python, SQL) to reduce loan defaults](https://drive.google.com/file/d/1D5ABJ0wycU69jcHpxwls-e-1bRz8Gu7W/view?usp=sharing)** 
 - Built PRiSE - Predictive Risk Scoring Engine using Machine Learning techniques to detect a potential home loan defaulter by studying reducing loan defaults by 28%
 - Awarded Best Publication Award at the Global Business and Finance Research: Impact of Statistical & Risk Variables on Non-Performing Loans
