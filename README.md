@@ -72,7 +72,8 @@ When I am not building data models and strategies I like to play Badminton, visi
 
 ## 📂 Portfolio  
 Check out my **Data Analytics Projects** here:
-**[Time Series Forecast for Revenue (ARR) and Sales using Python Saniya Mirza.ipyn](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
+
+**[Time Series Forecast for Revenue (ARR) and Sales using Python](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
 - Forecasted Annual Recurring Revenue (ARR) using Python-based time series models (ARIMA, Prophet, LSTM) to uncover growth patterns, seasonality, and churn trends across customer segments.
 - Analyzed customer acquisition trends & conversion funnels using cohort analysis, funnel visualization, and time-to-conversion metrics to identify bottlenecks and high-performing channels.
 - Evaluated marketing efficiency through multi-touch attribution, CPA vs. LTV analysis, and campaign ROI to optimize spend and uncover underperforming channels.
