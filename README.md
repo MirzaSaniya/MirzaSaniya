@@ -73,7 +73,7 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio  
 Check out my **Data Analytics Projects** here:
 
-**[Marketing Analytics Metrics for Customer Lifetime Value, Acquisition & Segmentation, Sales & Churn Prediction, Uplift & A/B Testing](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
+**[Marketing Analytics Metrics for Customer Lifetime Value, Acquisition & Segmentation, Sales & Churn Prediction, Uplift & A/B Testing](https://github.com/MirzaSaniya/Marketing-Analytics-Metrics-and-predictive-Modeling-Saniya-Mirza/blob/main/customer_lifetime_value_prediction.ipynb))** 
 - Analyzed user engagement metrics like DAU, MAU, and ARPU to evaluate product usage trends and revenue per user across different customer segments.
 - Calculated Customer Lifetime Value (CLV) using cohort analysis and retention curves to guide acquisition strategy and budget allocation.
 - Built models for churn prediction and sales forecasting using logistic regression, Random Forest, and XGBoost to identify at-risk users and forecast future revenue.
