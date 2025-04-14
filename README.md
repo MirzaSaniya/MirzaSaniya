@@ -73,11 +73,11 @@ When I am not building data models and strategies I like to play Badminton, visi
 ## 📂 Portfolio  
 Check out my **Data Analytics Projects** here:
 
-**[Time Series Forecast for Revenue (ARR) and Sales using Python](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
-- Forecasted Annual Recurring Revenue (ARR) using Python-based time series models (ARIMA, Prophet, LSTM) to uncover growth patterns, seasonality, and churn trends across customer segments.
-- Analyzed customer acquisition trends & conversion funnels using cohort analysis, funnel visualization, and time-to-conversion metrics to identify bottlenecks and high-performing channels.
-- Evaluated marketing efficiency through multi-touch attribution, CPA vs. LTV analysis, and campaign ROI to optimize spend and uncover underperforming channels.
-- Refined acquisition strategies via pricing elasticity modeling, promotion impact assessment (CausalImpact, diff-in-diff), and competitive benchmarking using web scraping and sentiment analysis.
+**[Marketing Analytics Metrics for Customer Lifetime Value, Acquisition & Segmentation, Sales & Churn Prediction, Uplift & A/B Testing](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
+- Analyzed user engagement metrics like DAU, MAU, and ARPU to evaluate product usage trends and revenue per user across different customer segments.
+- Calculated Customer Lifetime Value (CLV) using cohort analysis and retention curves to guide acquisition strategy and budget allocation.
+- Built models for churn prediction and sales forecasting using logistic regression, Random Forest, and XGBoost to identify at-risk users and forecast future revenue.
+- Conducted uplift modeling and A/B testing to measure campaign impact, optimize targeting, and improve marketing ROI through data-driven decision-making.
 
 
 **[Walmart Sales Price Prediction using Linear Regression, Random Forest, XGBoost, k-Nearest Neighbor](https://github.com/MirzaSaniya/Walmart-Sales-Price-Prediction-using-Linear-Regression-Random-Forest-XGBoost-k-Nearest-Neighbor-/blob/main/Walmart_Time_Series_Forecast.ipynb)** 
@@ -89,9 +89,9 @@ Check out my **Data Analytics Projects** here:
 
 **[Time Series Forecast for Revenue (ARR) and Sales using Python](https://github.com/MirzaSaniya/Time-Series-Forecasting-for-Revenue-ARR-Sales-in-Python/blob/main/Time_Series_Forecast_for_Sales_and_Revenue_Saniya_Mirza.ipynb)** 
 - Forecasted Annual Recurring Revenue (ARR) using Python-based time series models (ARIMA, Prophet, LSTM) to uncover growth patterns, seasonality, and churn trends across customer segments.
-- Analyzed customer acquisition trends & conversion funnels using cohort analysis, funnel visualization, and time-to-conversion metrics to identify bottlenecks and high-performing channels.
-- Evaluated marketing efficiency through multi-touch attribution, CPA vs. LTV analysis, and campaign ROI to optimize spend and uncover underperforming channels.
 - Refined acquisition strategies via pricing elasticity modeling, promotion impact assessment (CausalImpact, diff-in-diff), and competitive benchmarking using web scraping and sentiment analysis.
+- Evaluated marketing efficiency through multi-touch attribution, CPA vs. LTV analysis, and campaign ROI to optimize spend and uncover underperforming channels.
+
 
 
 **[PRiSE - Predictive Risk Scoring Engine using Machine Learning (Python, SQL) to reduce loan defaults](https://drive.google.com/file/d/1D5ABJ0wycU69jcHpxwls-e-1bRz8Gu7W/view?usp=sharing)** 
